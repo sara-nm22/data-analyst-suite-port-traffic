@@ -1,0 +1,21 @@
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Build PyInstaller
+build/
+dist/
+
+# Fichiers lourds (video : a publier via GitHub Releases ou YouTube)
+*.mp4
+
+# Windows / IDE
+Thumbs.db
+.vscode/
+.idea/

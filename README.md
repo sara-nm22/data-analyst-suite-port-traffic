@@ -31,7 +31,7 @@ Dans le dossier `data/` :
 Prérequis : [Python 3.10+](https://www.python.org/downloads/) (Tkinter est inclus dans l'installateur Windows).
 
 ```bash
-git clone https://github.com/VOTRE-NOM/data-analyst-suite-port-traffic.git
+git clone https://github.com/sara-nm22/data-analyst-suite-port-traffic.git
 cd data-analyst-suite-port-traffic
 
 python -m venv .venv
